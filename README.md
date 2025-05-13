@@ -5,10 +5,12 @@
 Under the Sea is a console-based restaurant management program developed in Java. The project simulates a seafood restaurant where customers can browse the menu, place orders, and receive price summaries.
 
 # Features:
+
 	• Displaying a seafood menu with item names and prices
 	• Allowing users to place orders and view the total bill
 	• Simple, interactive console interface
 	• Object-Oriented Programming (OOP) structure
+
 
 # Technologies Used
 	• Java
